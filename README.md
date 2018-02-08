@@ -1,2 +1,0 @@
-# snail-facts
-Snail Facts!
